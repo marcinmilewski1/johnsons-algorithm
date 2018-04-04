@@ -1,0 +1,13 @@
+From 1:
+ to 1 ,distance: 0
+ to 2 ,distance: 5
+ to 3 ,distance: 5
+From 2:
+ to 1 ,distance:  INF
+ to 2 ,distance: 0
+ to 3 ,distance: 0
+From 3:
+ to 1 ,distance:  INF
+ to 2 ,distance:  INF
+ to 3 ,distance: 0
+
